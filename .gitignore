@@ -4,3 +4,4 @@ node_modules/
 uploads/
 google-service-account.json
 vault_pass.txt
+.terraform/
