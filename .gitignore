@@ -1,7 +1,8 @@
 
+
 node_modules/
-.env
+server/.env
 uploads/
-google-service-account.json
-vault_pass.txt
+server/google-service-account.json
+infra/ansible/vault_pass.txt
 .terraform/
